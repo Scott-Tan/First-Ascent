@@ -1,0 +1,80 @@
+.main{
+    overflow:auto;
+}
+
+.form-group{
+    padding: 10px;
+}
+
+.form-horizontal{
+    width: 40%;
+}
+
+.climb_post_box {
+    width:100%;
+}
+
+.climb_info {
+    border: 1px solid black;
+    margin: 10px;
+    background-color: white;
+    opacity: 50%;
+    margin-left: 50px;
+}
+
+.control-label{
+    font-weight:bold;
+}
+
+
+
+/*canvas box*/
+.drawing_box{
+    margin: 20px;
+    padding: 10px;
+    width:50%;
+    overflow:auto;
+}
+
+.canvas_div{
+    overflow:auto;
+}
+
+#search-container{
+    font-weight: bold;
+    
+}
+
+#location{
+    font-size: 16px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    /**
+    float: left;
+    margin: 0%;
+    */
+}
+
+#search-input{
+    /**
+    float: left;
+    margin: 20px;
+    margin-top: -20px;
+    */
+    margin-bottom: 10px;
+}
+
+#gps-coords-title{
+    font-weight: bold;
+}
+
+#gps-coords{
+    margin-top: -15px;
+    font: 14px;
+}
+
+
+
+
+
+
