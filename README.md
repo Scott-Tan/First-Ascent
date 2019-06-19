@@ -2,10 +2,10 @@
 This is just a backup repository for my own needs.
 
 This project was developed by:
-  - Ethan Warkentin (Product Owner) [ewarkent](https://github.com/ewarkent).
-  - Celine Sehbossian [cseghbossian](https://github.com/cseghbossian).
-  -	Scott Tan [Scott_Tan](https://github.com/Scott-Tan).
-  - Minh Nguyen [Minh Nguyen]().
+  - Ethan Warkentin (Product Owner), [ewarkent](https://github.com/ewarkent).
+  - Celine Sehbossian, [cseghbossian](https://github.com/cseghbossian).
+  -	Scott Tan, [Scott_Tan](https://github.com/Scott-Tan).
+  - Minh Nguyen, [Minh Nguyen]().
 
 You can find the original repository here
 (https://github.com/ewarkent/FirstAscent).
